@@ -1,0 +1,3 @@
+ticket_id,titre,statut,priorite,responsable,date_creation,date_limite,type
+T001,Test 1,A faire,critique,Alice,2026-01-01,2026-12-01,tache
+T002,Test 2,A faire,faible,Karim,2026-01-01,2026-12-01,tache

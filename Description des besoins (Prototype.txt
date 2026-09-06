@@ -1,0 +1,9 @@
+Description des besoins (Prototype QA) 
+
+Dans un projet IT, les tickets sont dispersés entre plusieurs membres d'équipe, avec des statuts et des dates limites difficiles à suivre globalement, ce qui rend le pilotage du projet compliqué et chronophage.
+
+Ce prototype vise à centraliser le suivi des tickets d'un projet : afficher des indicateurs clés, détecter automatiquement des situations à risque (retards, tickets bloqués, sans responsable, priorités critiques), et générer une courte synthèse de l'état du projet.
+
+Pour ce premier mois, le périmètre est volontairement limité à un prototype simple et fonctionnel : pas de connexion réelle à Jira/GitHub, pas de système multi-agents, pas de RAG, pas de déploiement cloud. L'objectif est un socle clair et démontrable avant d'envisager des extensions.
+Le prototype fonctionne à partir de données simulées (fichier CSV de démonstration), sans dépendance à des données réelles ou confidentielles.
+

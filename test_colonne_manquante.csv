@@ -1,0 +1,2 @@
+ticket_id,titre,statut,priorite,date_creation,date_limite,type_t
+T001,Test,à faire,moyenne,2026-01-01,2026-06-01,tache

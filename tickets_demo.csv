@@ -1,0 +1,41 @@
+ticket_id,titre,statut,priorite,responsable,date_creation,date_limite,type_t
+T001,Ticket exemple 1,bloque,critique,Fatime,2026-07-01,2026-07-04,bug
+T002,Ticket exemple 2,A faire,moyenne,Fatime,2026-05-15,2026-07-04,amelioration
+T003,Ticket exemple 3,bloque,faible,,2026-06-11,2026-07-04,amelioration
+T004,Ticket exemple 4,bloque,faible,,2026-05-18,2026-07-04,Tache
+T005,Ticket exemple 5,bloque,elevee,Mouad,2026-06-06,2026-07-04,amelioration
+T006,Ticket exemple 6,bloque,moyenne,Eman,2026-07-08,2026-07-28,Tache
+T007,Ticket exemple 7,bloque,critique,Mouad,2026-06-14,2026-06-21,amelioration
+T008,Ticket exemple 8,bloque,elevee,Douae,2026-06-10,2026-06-25,Tache
+T009,Ticket exemple 9,bloque,faible,Fatime,2026-06-02,2026-06-20,amelioration
+T010,Ticket exemple 10,bloque,critique,,2026-07-05,2026-08-01,bug
+T011,Ticket exemple 11,bloque,faible,,2026-06-22,2026-07-08,bug
+T012,Ticket exemple 12,termine,moyenne,,2026-06-20,2026-07-01,Tache
+T013,Ticket exemple 13,A faire,faible,,2026-07-04,2026-07-27,bug
+T014,Ticket exemple 14,En cours,critique,,2026-05-15,2026-05-30,bug
+T015,Ticket exemple 15,termine,faible,,2026-06-26,2026-07-18,bug
+T016,Ticket exemple 16,bloque,moyenne,Douae,2026-06-02,2026-06-07,Tache
+T017,Ticket exemple 17,En cours,faible,,2026-07-07,2026-07-19,Tache
+T018,Ticket exemple 18,bloque,critique,Fatime,2026-06-09,2026-06-14,Tache
+T019,Ticket exemple 19,En cours,elevee,Eman,2026-06-30,2026-07-20,bug
+T020,Ticket exemple 20,bloque,faible,Mouad,2026-06-24,2026-07-02,amelioration
+T021,Ticket exemple 21,bloque,faible,Fatime,2026-05-27,2026-06-16,bug
+T022,Ticket exemple 22,bloque,moyenne,,2026-06-05,2026-07-03,bug
+T023,Ticket exemple 23,A faire,critique,Eman,2026-06-13,2026-07-04,Tache
+T024,Ticket exemple 24,En cours,critique,Mouad,2026-07-04,2026-07-16,amelioration
+T025,Ticket exemple 25,bloque,faible,Eman,2026-05-18,2026-06-17,bug
+T026,Ticket exemple 26,bloque,critique,Mouad,2026-07-09,2026-07-27,amelioration
+T027,Ticket exemple 27,A faire,faible,Eman,2026-06-04,2026-06-13,Tache
+T028,Ticket exemple 28,bloque,faible,,2026-05-17,2026-05-26,bug
+T029,Ticket exemple 29,termine,moyenne,,2026-05-20,2026-06-02,Tache
+T030,Ticket exemple 30,En cours,moyenne,Fatime,2026-05-16,2026-05-29,Tache
+T031,Ticket exemple 31,A faire,critique,Fatime,2026-06-30,2026-07-12,bug
+T032,Ticket exemple 32,En cours,faible,Mouad,2026-05-18,2026-05-27,amelioration
+T033,Ticket exemple 33,A faire,critique,Douae,2026-07-09,2026-07-26,amelioration
+T034,Ticket exemple 34,bloque,faible,Eman,2026-06-25,2026-07-14,bug
+T035,Ticket exemple 35,bloque,elevee,Fatime,2026-05-17,2026-06-16,amelioration
+T036,Ticket exemple 36,En cours,critique,,2026-06-26,2026-07-02,amelioration
+T037,Ticket exemple 37,bloque,elevee,Douae,2026-06-20,2026-06-29,Tache
+T038,Ticket exemple 38,bloque,critique,Douae,2026-06-01,2026-06-12,Tache
+T039,Ticket exemple 39,En cours,moyenne,Fatime,2026-06-02,2026-06-07,amelioration
+T040,Ticket exemple 40,termine,critique,Fatime,2026-07-07,2026-08-05,bug
