@@ -13,7 +13,7 @@ def test_ticket_en_retard():
         "responsable": ["Alice", "Karim"],
         "date_creation": ["2026-01-01", "2026-01-01"],
         "date_limite": ["2020-01-01", "2020-01-01"],  # both are in the past
-        "type": ["tâche", "tâche"]
+        "type_t": ["tâche", "tâche"]
     })
 
 
@@ -36,7 +36,7 @@ def test_ticket_bloque():
         "responsable": ["Alice", "Karim"],
         "date_creation": ["2026-01-01", "2026-01-01"],
         "date_limite": ["2026-12-01", "2026-12-01"],
-        "type": ["tache", "tache"]
+        "type_t": ["tache", "tache"]
     })
 
 
@@ -57,7 +57,7 @@ def test_ticket_sans_responsable():
         "responsable": [None, "Alice"],
         "date_creation": ["2026-01-01", "2026-01-01"],
         "date_limite": ["2026-12-01", "2026-12-01"],
-        "type": ["tache", "tache"]
+        "type_t": ["tache", "tache"]
     })
 
     donnees.to_csv("temp_test.csv", index=False)
@@ -77,7 +77,7 @@ def test_ticket_critique():
         "responsable": ["Alice", "Karim"],
         "date_creation": ["2026-01-01", "2026-01-01"],
         "date_limite": ["2026-12-01", "2026-12-01"],
-        "type": ["tache", "tache"]
+        "type_t": ["tache", "tache"]
     })
 
     donnees.to_csv("temp_test.csv", index=False)
